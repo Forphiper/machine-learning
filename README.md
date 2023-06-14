@@ -1,6 +1,5 @@
 # Machine Learning Homeworks
 
-Topics of homeworks:
 ## HW1: Regression
 * Solve a regression problem with deep neural networks (DNN).
 * Understand basic DNN training tips e.g. hyper-parameter tuning, feature selection, regularization, ... 
